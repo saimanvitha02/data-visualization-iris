@@ -28,6 +28,9 @@ A violin plot combines the benefits of the previous two plots and simplifies the
 ![seaborn_violinplot](https://user-images.githubusercontent.com/63820567/123866783-24e9aa80-d94b-11eb-8f3a-9ac0ff4e3239.png)
 
 A final seaborn plot useful for looking at univariate relations is the kdeplot, which creates and visualizes a kernel density estimate of the underlying feature
+
+![image](https://user-images.githubusercontent.com/63820567/123868138-ec4ad080-d94c-11eb-9cdd-424438b9b3b1.png)
+
 Another useful seaborn plot is the pairplot, which shows the bivariate relation between each pair of features. From the pairplot, we'll see that the Iris-setosa species is separataed from the other two across all feature combinations
 
 ![seaborn_pairplot](https://user-images.githubusercontent.com/63820567/123866822-316e0300-d94b-11eb-93d7-a92adcb736a5.png)
@@ -53,7 +56,7 @@ A final multivariate visualization technique pandas has is radviz which puts eac
 ![image](https://user-images.githubusercontent.com/63820567/123867463-046e2000-d94c-11eb-85ef-9f3ff8b565e1.png)
 
 
-
+I hope you enjoyed this quick introduction to some of the quick, simple data visualizations you can create with pandas, seaborn, and matplotlib in Python!
 
 
 
